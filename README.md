@@ -1,8 +1,8 @@
 # Appointment-Reminder
 This is simple appointment reminder android app. This application will notify(with sound) user according to the date and time set by the user. This application has a cancel button - by using it, user can cancel their notification service anytime or after notify. This application also has a delete button - by using it, user will clear or delete date and time set by the user.  
-*This application also work after device reboot and switch off/on.  
-*This app is done by using AlarmManager.  
-*This is my internship task.
+* This application also work after device reboot and switch off/on.  
+* This app is done by using AlarmManager.  
+* This is my internship task.
 
 
 ## Screenshots
